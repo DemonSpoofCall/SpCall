@@ -5,7 +5,7 @@
 ▶️ Appuie sur "Appeler" ou "Lancer l’appel".
 ⏳ Attends que la connexion s’établisse.
 3️⃣ Recharger tes crédits (via Telegram) 💳
-🔗 Contacte le support sur Telegram : [@DemonSpoofCall].
+🔗 Contacte le support sur Telegram : [@DemonSpoofCall911].
 🆔 Indique ton identifiant utilisateur et le montant souhaité.
 ✅ Suis les instructions pour effectuer le paiement et recevoir tes crédits.
 4️⃣ Consulter l’historique des appels 🕒
@@ -13,7 +13,7 @@
 5️⃣ Astuce pour plus de sécurité 🛡️
 🌐 Utilise un VPN pour protéger ton anonymat et éviter tout problème légal.
 6️⃣ Contact support (si besoin) 🛠️
-📩 Pour toute assistance, contacte l’équipe directement sur Telegram : [@DemonSpoofCall].
+📩 Pour toute assistance, contacte l’équipe directement sur Telegram : [@DemonSpoofCall911].
 
 
 
