@@ -1,3 +1,7 @@
+
+Veillez a bien activer Windows Defender !!!!
+
+
 1️⃣ Configurer les paramètres de base ⚙️
 🖋️ Saisis le numéro à afficher : Le faux numéro qui s’affichera chez ton correspondant.
 📞 Entres le numéro cible : Le numéro que tu veux appeler.
@@ -14,6 +18,10 @@
 🌐 Utilise un VPN pour protéger ton anonymat et éviter tout problème légal.
 6️⃣ Contact support (si besoin) 🛠️
 📩 Pour toute assistance, contacte l’équipe directement sur Telegram : [@DemonSpoofCall911].
+
+
+
+
 
 
 
