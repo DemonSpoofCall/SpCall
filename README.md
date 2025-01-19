@@ -17,8 +17,7 @@ Veillez a bien activer Windows Defender !!!!
 5️⃣ Astuce pour plus de sécurité 🛡️
 🌐 Utilise un VPN pour protéger ton anonymat et éviter tout problème légal.
 6️⃣ Contact support (si besoin) 🛠️
-📩 Pour toute assistance, contacte l’équipe directement sur Telegram : [@DemonSpoofCall911].
-
+📩 Pour toute assistance ou pour avoir le code source, contacte moi directement sur Telegram : [@DemonSpoofCall911].
 
 
 
