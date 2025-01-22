@@ -1,7 +1,7 @@
 
 Veillez a bien activer Windows Defender !!!!
 
-
+( attendrez 45 - 60 seconde après l'ouverture du programme)
 1️⃣ Configurer les paramètres de base ⚙️
 🖋️ Saisis le numéro à afficher : Le faux numéro qui s’affichera chez ton correspondant.
 📞 Entres le numéro cible : Le numéro que tu veux appeler.
